@@ -8,6 +8,3 @@ spring:
           uri: https://github.com/dwivedy/service-config-store
           search-paths:
           - '*service'
- data:
-   mongodb:
-     uri: mongodb://leagalleaguelawyer:demo01@ds251507.mlab.com:51507/legalleaguelawyer
